@@ -6,7 +6,7 @@ import java.util.List;
 
 public class ChessFactory {
 
-    public List<ChessPiece> createPieces(List<String> strings){
+    public List<ChessPiece> createPieces(List<String> strings) {
         return null;
     }
 }
