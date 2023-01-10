@@ -1,4 +1,4 @@
-package com.github.bgora.pieces;
+package com.github.bartgora.pieces;
 
 public abstract sealed class ChessPiece permits Pawn, Rook, Knight, King, Queen, Bishop {
 

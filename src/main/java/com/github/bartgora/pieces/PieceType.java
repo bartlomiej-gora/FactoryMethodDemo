@@ -1,4 +1,4 @@
-package com.github.bgora.pieces;
+package com.github.bartgora.pieces;
 
 public enum PieceType {
     PAWN('P'),

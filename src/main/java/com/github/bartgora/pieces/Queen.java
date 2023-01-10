@@ -1,4 +1,4 @@
-package com.github.bgora.pieces;
+package com.github.bartgora.pieces;
 
 public final class Queen extends ChessPiece {
     public Queen(String rank, Integer file) {

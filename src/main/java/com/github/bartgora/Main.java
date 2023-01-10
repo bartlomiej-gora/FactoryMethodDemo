@@ -1,4 +1,4 @@
-package com.github.bgora;
+package com.github.bartgora;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
-package com.github.bgora;
+package com.github.bartgora;
 
-import com.github.bgora.factory.ChessFactory;
-import com.github.bgora.pieces.*;
+import com.github.bartgora.factory.ChessFactory;
+import com.github.bartgora.pieces.*;
 import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.*;
 

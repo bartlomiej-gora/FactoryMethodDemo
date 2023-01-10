@@ -1,6 +1,6 @@
-package com.github.bgora.factory;
+package com.github.bartgora.factory;
 
-import com.github.bgora.pieces.ChessPiece;
+import com.github.bartgora.pieces.ChessPiece;
 
 import java.util.List;
 

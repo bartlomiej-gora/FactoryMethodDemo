@@ -1,4 +1,4 @@
-package com.github.bgora.pieces;
+package com.github.bartgora.pieces;
 
 public final class Knight extends ChessPiece {
     public Knight(String rank, Integer file) {
